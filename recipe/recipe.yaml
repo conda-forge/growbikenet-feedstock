@@ -43,7 +43,7 @@ about:
   summary: BikeNetKit Python package to grow urban bicycle networks
   license: AGPL-3.0-only
   license_file: LICENSE
-  homepage: https://bikenetkit.org/
+  homepage: https://bikenetkit.org/growbikenet/
   documentation: https://bikenetkit.github.io/GrowBikeNet/
   repository: https://github.com/BikeNetKit/GrowBikeNet/
 
