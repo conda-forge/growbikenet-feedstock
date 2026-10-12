@@ -3,11 +3,13 @@ About growbikenet-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/growbikenet-feedstock/blob/main/LICENSE.txt)
 
-Home: https://bikenetkit.org/
+Home: https://bikenetkit.org/growbikenet/
 
 Package license: AGPL-3.0-only
 
 Summary: BikeNetKit Python package to grow urban bicycle networks
+
+Development: https://github.com/BikeNetKit/GrowBikeNet/
 
 Documentation: https://bikenetkit.github.io/GrowBikeNet/
 
