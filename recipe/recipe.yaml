@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   python_min: "3.12"
-  version: "0.15.0"
+  version: "0.16.0"
 
 package:
   name: growbikenet
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/g/growbikenet/growbikenet-${{ version }}.tar.gz
-  sha256: ca03eeb6cd604bff71714bf0a4e298debf3cd33efbdf62b743673ccb38d7575c
+  sha256: f6c18bf549fccd16e566d3bdbccc075170ed81beeff04bc0d3875544681bdfb7
 
 build:
   number: 0
