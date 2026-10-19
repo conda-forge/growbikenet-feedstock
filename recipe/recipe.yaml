@@ -29,6 +29,7 @@ requirements:
     - osmnx >=2
     - geojson
     - tqdm
+    - bikenetlib
 
 tests:
   - python:
